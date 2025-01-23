@@ -1,0 +1,6 @@
+@Concentrix_HostAddress = http://localhost:5249
+
+GET {{Concentrix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
